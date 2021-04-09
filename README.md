@@ -5,7 +5,7 @@ I am currently becoming a developer  and enyoing this new language programming w
 ## **About me:**
 
 - I am an industrial Engineer working on TI since ever.
-- Guatemalan girl living in Brazil; both hometowns are my home:brazil::guatemala::heartpulse:
+- Guatemalan girl living in Brazil; both hometowns are my home :brazil: :guatemala: :heartpulse:
 - Currently I am working as a Quality Engineer and for many time I was Project Manager. 
 - Nature Lover and passionate by new adventures.
 
