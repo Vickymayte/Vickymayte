@@ -4,10 +4,10 @@ I am currently becoming a developer  and enyoing this new language programming w
 
 ## **About me:**
 
-I am an industrial Engineer working on TI since ever.
-Guatemalan girl living in Brazil my two hometown favorite places :brazil::guatemala::heartpulse:
-Currently I am working as a Quality Engineer and for many time I was Project Manager. 
-Nature Lover and passionate by new adventures.
+- I am an industrial Engineer working on TI since ever.
+- Guatemalan girl living in Brazil; both hometowns are my home:brazil::guatemala::heartpulse:
+- Currently I am working as a Quality Engineer and for many time I was Project Manager. 
+- Nature Lover and passionate by new adventures.
 
 ![images](https://user-images.githubusercontent.com/81971164/114244895-bad1f280-9965-11eb-8721-b9fc7dfc527a.jpg)
 
